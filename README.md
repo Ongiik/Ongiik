@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Benen and I am currently a full-time computer science looking for a Summer 2023 Internship!
+
+🌱 I’m currently learning ReactJS, PHP, and SQL on my freetime and studying Systems Programming in school. 
+
+😄 Interests:  
+* Web development.
+* Bodybuilding
+
+📫 Reach me by email or LinkedIn!  benen.k18@gmail.com | https://www.linkedin.com/in/benen-kim-59111b184/
+
+💬 Visit my website! https://ongiik.github.io/Website
