@@ -23,6 +23,6 @@ My name is Benen and I am currently a full-time computer science looking for a S
 * Web development.
 * Bodybuilding
 
-📫 Reach me by email or LinkedIn!  benen.k18@gmail.com | https://www.linkedin.com/in/benen-kim-59111b184/
+📫 Reach me by email or LinkedIn!  benenonkikim@gmail.com | https://www.linkedin.com/in/benen-kim-59111b184/
 
 💬 Visit my website! https://ongiik.github.io/Website
