@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Benen and I am currently a full-time computer science looking for a Summer 2023 Internship!
+My name is Benen and I am currently a full-time computer science student looking for a Summer 2023 Internship!
 
-🌱 I’m currently learning ReactJS, PHP, and SQL on my freetime and studying Systems Programming in school. 
+🌱 I’m currently learning ReactJS, PHP, and SQL on my free time and studying Systems Programming in school. 
 
 😄 Interests:  
 * Web development.
