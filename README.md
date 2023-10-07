@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Benen and I am currently a full-time computer science student looking for a Summer 2024 Internship!
 
-🌱 I’m currently learning ReactJS, node, and Python on my free time.
+🌱 I’m currently learning ReactJS, NodeJS, and Python on my free time. Hopeful to dig into Express and MongoDB in the near future.
 
 😄 Interests:  
 * Web development.
