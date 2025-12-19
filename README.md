@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 My name is Benen and I am currently a graduated computer science student looking for a Summer 2026 Internship!
 
-🌱 I’m currently learning React and Node on my free time. Hopeful to dig into Express in the near future.
+🌱 I’m currently putting my focus onto Java and Sprint Boot development.
 
 😄 Interests:  
-* Web development.
-* Bodybuilding
+* Developing real-world software
+* Powerlifting
 
 📫 Reach me by email or LinkedIn!  benenonkikim@gmail.com | https://www.linkedin.com/in/benen-kim-59111b184/
 
